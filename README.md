@@ -166,9 +166,8 @@ jupyter notebook notebooks/01_main_analysis.ipynb
 
 Data Analyst with experience in customer analytics, retention modeling, and turning ambiguous business questions into prioritized, measurable actions.
 
-- LinkedIn: [your-linkedin-url]
-- Portfolio: [your-portfolio-url]
-- Email: your.email@example.com
+- LinkedIn: [(https://www.linkedin.com/in/matheus-raul-silvestresan/]
+- Email: matheusraulm1@gmail.com
 
 ---
 
