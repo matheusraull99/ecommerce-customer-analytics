@@ -164,12 +164,13 @@ jupyter notebook notebooks/01_main_analysis.ipynb
 
 ## About the Author
 
-Data Analyst with experience in customer analytics, retention modeling, and turning ambiguous business questions into prioritized, measurable actions.
+Hi! I'm Matheus Raul Silvestresan — a Data Analyst passionate about customer analytics, retention modeling, and turning ambiguous business questions into prioritized, measurable actions.
+
+I'm currently open to opportunities in Data Analytics. Feel free to reach out!
 
 - LinkedIn: [matheus-raul-silvestresan](https://www.linkedin.com/in/matheus-raul-silvestresan/)
 - Email: matheusraulm1@gmail.com
-
----
+- Location: São Paulo, Brazil 🇧🇷
 
 ## License
 
